@@ -1,0 +1,10 @@
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\bin\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\bin\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.Form1.resources
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.frmLogin.resources
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\dynamic cloud.csproj.GenerateResource.Cache
+C:\Users\emerging\Desktop\audit\Dynamic audit\obj\x86\Debug\Panda.exe
+C:\Users\emerging\Desktop\audit\Dynamic audit\obj\x86\Debug\Panda.pdb

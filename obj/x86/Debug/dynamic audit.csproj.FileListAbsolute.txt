@@ -1,0 +1,61 @@
+C:\Users\emerging\Desktop\audit\Dynamic audit\obj\x86\Debug\Panda.exe
+C:\Users\emerging\Desktop\audit\Dynamic audit\obj\x86\Debug\Panda.pdb
+D:\dy audit\Dynamic audit\bin\Debug\Panda.exe
+D:\dy audit\Dynamic audit\bin\Debug\Panda.pdb
+D:\dy audit\Dynamic audit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.Form1.resources
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.Formreg.resources
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.frmLogin.resources
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.Properties.Resources.resources
+D:\dy audit\Dynamic audit\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\dy audit\Dynamic audit\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.exe
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.pdb
+D:\dy audit\Dynamic audit\obj\x86\Debug\Panda.operations.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\bin\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\bin\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.Form1.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.Formreg.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.frmLogin.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.operations.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit\obj\x86\Debug\dynamic audit.csproj.GenerateResource.Cache
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\bin\Debug\Panda.exe.config
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\bin\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\bin\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\bin\Debug\RestSharp.xml
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\dynamic audit.csprojResolveAssemblyReference.cache
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.Form1.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.Formreg.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.frmLogin.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.operations.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v2\obj\x86\Debug\dynamic audit.csproj.GenerateResource.Cache
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\bin\Debug\Panda.exe.config
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\bin\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\bin\Debug\Panda.pdb
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\bin\Debug\RestSharp.xml
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\dynamic audit.csprojResolveAssemblyReference.cache
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.Form1.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.Formreg.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.frmLogin.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.operations.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\ME 2014-15\SVIT\sonali\dy audit\Dynamic audit v3\obj\x86\Debug\dynamic audit.csproj.GenerateResource.Cache
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Form1.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Formreg.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.frmLogin.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.operations.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\dynamic audit.csproj.GenerateResource.Cache
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Panda.exe.config
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Panda.exe
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Panda.pdb
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.exe
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.pdb

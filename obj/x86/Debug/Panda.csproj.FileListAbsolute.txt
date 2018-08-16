@@ -1,0 +1,10 @@
+D:\2015 work\Panda\Panda\bin\Debug\Panda.exe
+D:\2015 work\Panda\Panda\bin\Debug\Panda.pdb
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.Form1.resources
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.Properties.Resources.resources
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.csproj.GenerateResource.Cache
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.exe
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.pdb
+D:\2015 work\Panda\Panda\obj\x86\Debug\Panda.csprojResolveAssemblyReference.cache
+D:\2015 work\Oruta\Panda\obj\x86\Debug\Panda.exe
+D:\2015 work\Oruta\Panda\obj\x86\Debug\Panda.pdb

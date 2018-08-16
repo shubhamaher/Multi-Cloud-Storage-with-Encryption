@@ -1,0 +1,38 @@
+D:\2015 work\Oruta\Panda\obj\x86\Debug\Panda.exe
+D:\2015 work\Oruta\Panda\obj\x86\Debug\Panda.pdb
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Panda.exe
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Panda.pdb
+D:\2015 work\Oruta\Oruta\bin\Debug\Panda.exe
+D:\2015 work\Oruta\Oruta\bin\Debug\Panda.pdb
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Panda.Form1.resources
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Panda.frmLogin.resources
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Panda.Properties.Resources.resources
+D:\2015 work\Oruta\Oruta\obj\x86\Debug\Oruta.csproj.GenerateResource.Cache
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.exe
+E:\ME 2014-15\SVIT\sonali\Oruta\Dynamic cloud\obj\x86\Debug\Panda.pdb
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Oruta.exe.config
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Oruta.exe
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\bin\Debug\Oruta.pdb
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Form1.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Formreg.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.frmLogin.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.operations.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Panda.Properties.Resources.resources
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Oruta.csproj.GenerateResource.Cache
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Oruta.exe
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3\obj\x86\Debug\Oruta.pdb
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3-1\bin\Debug\Oruta.exe.config
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3-1\obj\x86\Debug\Oruta.exe
+E:\BE 2015-16\ndmvp\shital agrawal\Dynamic audit v3-1\obj\x86\Debug\Oruta.pdb
+D:\Dynamic audit v3-1\bin\Debug\Oruta.exe.config
+D:\Dynamic audit v3-1\obj\x86\Debug\Oruta.exe
+D:\Dynamic audit v3-1\obj\x86\Debug\Oruta.pdb
+D:\Dynamic audit v3-1\bin\Debug\Oruta.exe
+D:\Dynamic audit v3-1\bin\Debug\Oruta.pdb
+D:\Dynamic audit v3-1\obj\x86\Debug\Oruta.csprojResolveAssemblyReference.cache
+D:\Dynamic audit v3-1\obj\x86\Debug\Panda.Form1.resources
+D:\Dynamic audit v3-1\obj\x86\Debug\Panda.Formreg.resources
+D:\Dynamic audit v3-1\obj\x86\Debug\Panda.frmLogin.resources
+D:\Dynamic audit v3-1\obj\x86\Debug\Panda.operations.resources
+D:\Dynamic audit v3-1\obj\x86\Debug\Panda.Properties.Resources.resources
+D:\Dynamic audit v3-1\obj\x86\Debug\Oruta.csproj.GenerateResource.Cache
